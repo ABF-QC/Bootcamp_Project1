@@ -1,4 +1,4 @@
-# Climate Weather Station Analysis Inventory Analysis
+# Climate Weather Station Inventory Analysis
 
 ## Objective
 The goal is to analyse the climate weather stations over the province of Quebec. During the analysis, we will find a list of climate stations that are available over a period of at least 30 years, in order to be used in another project later on to produce climate trends.
