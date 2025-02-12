@@ -1,34 +1,34 @@
 stn_reports = {
     'hly_dly_mly' : {
-        'name' : 'HLY/DLY/MLY',
+        'name' : 'Hourly & Daily & Montlhy',
         'color' : 'purple',
     },
     'hly_dly' : {
-        'name' : 'HLY/DLY',
+        'name' : 'Hourly & Daily',
         'color' : 'blue',
     },
     'hly_mly' : {
-        'name' : 'HLY/MLY',
+        'name' : 'Hourly & Monthly',
         'color' : 'black',
     },
     'hly' : {
-        'name' : 'HLY',
+        'name' : 'Hourly',
         'color' : 'red',
     },
     'dly_mly' : {
-        'name' : 'DLY/MLY',
+        'name' : 'Daily & Montlhy',
         'color' : 'orange',
     },
     'dly' : {
-        'name' : 'DLY',
+        'name' : 'Daily',
         'color' : 'lightblue',
     },
     'mly' : {
-        'name' : 'MLY',
+        'name' : 'Monthly',
         'color' : 'yellow',
     },
     'other' : {
-        'name' : 'no reports',
+        'name' : 'No reports',
         'color' : 'pink',
     },
 }
